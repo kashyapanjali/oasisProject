@@ -86,3 +86,27 @@ footer {
     background-color: #333;
     color: white;
 }
+
+#resumelink{
+    text-align: center;    
+    box-sizing: border-box;
+    max-width: 100%;
+    margin-bottom: 6rem;
+}
+
+button{
+    background-color: #023e8a;
+    cursor: pointer;
+    border-radius: 1rem;
+    height: 3rem;
+    width: 10rem;
+    border: 3px solid black;
+    font-size: 1.2rem;
+}
+
+#resumelink:hover{
+    opacity: 0.5px;
+}
+button,a{
+    color: #fff;
+}
